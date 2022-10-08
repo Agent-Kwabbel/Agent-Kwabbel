@@ -9,7 +9,7 @@
 
 - 🤝 I work with the organizations [DJO Amersfoort](https://github.com/djoamersfoort)
 
-- 👨‍💻 All of my projects are available at [(upcoming)]((upcoming))
+- 👨‍💻 All of my projects are available at [my upcoming personal site](https://github.com/Agent-Kwabbel/Personal-Site)
 
 - ⚽ My goal is to **create a website with at least functional CSS**
 
