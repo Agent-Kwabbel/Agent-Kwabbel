@@ -13,7 +13,7 @@
 
 - 🎈 I've created some **Minecraft plugins & mods** in the past. None are out in the wild yet, so stay tuned!
 
-- 📫 Need to contact your agent? Mr. Kwabbel is here for a chat at [the_a_kwabbel@outlook.com](mailto:the_agent_kwabbel@outlook.com).
+- 📫 Need to contact your agent? Mr. Kwabbel is here for a chat at [agentkwabbel@gmail.com](mailto:agentkwabbel@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 ⚠️ Just a heads up! I rarely, if ever, engage on social media. But drop a message, and I might just appear.
